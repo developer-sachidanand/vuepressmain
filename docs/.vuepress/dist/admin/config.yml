@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: nehal119/vue-cms
+  repo: developer-sachidanand/vuepressmain
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "docs/.vuepress/public/images"
 public_folder: "docs/.vuepress/dist/"
